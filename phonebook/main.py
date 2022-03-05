@@ -2,7 +2,7 @@ import time
 import os
 import sys
 
-phone_dict = {0: {'name': 'Martin DAAN', 'phone': '6874057600'},
+phone_dict = {0: {'name': 'Djuure DAAN', 'phone': '6874057600'},
               1: {'name': 'Roger NOAH', 'phone': '5780465576'},
               2: {'name': 'Gerard MILAN', 'phone': '5673889347'},
               3: {'name': 'Rutter MEES', 'phone': '7350984476'},
